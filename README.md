@@ -1,2 +1,2 @@
-# final-project-lc-team
-final-project-lc-team created by GitHub Classroom
+# Lorenzo Capobianchi 1815464
+
